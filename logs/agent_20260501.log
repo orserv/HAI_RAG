@@ -1,0 +1,49 @@
+2026-05-01 21:05:08,518 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:05:08,519 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你是谁
+2026-05-01 21:05:35,847 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:05:35,848 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你有多专业
+2026-05-01 21:06:52,946 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:06:52,947 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你有多专业
+2026-05-01 21:09:29,565 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:09:29,566 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你是谁
+2026-05-01 21:13:01,343 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:13:01,343 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | WHO ARE YOU
+2026-05-01 21:13:15,022 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:13:15,023 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | your father
+2026-05-01 21:13:32,068 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:13:32,069 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我的机器人坏了怎么办
+2026-05-01 21:14:01,533 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:14:01,533 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 水箱漏水
+2026-05-01 21:14:05,771 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-05-01 21:14:05,771 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '水箱漏水故障处理'}
+2026-05-01 21:14:08,275 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-05-01 21:14:09,477 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-05-01 21:14:09,478 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 检查水箱的连接管道和接口，确认是否有松动或破损。如果发现漏水，需更换损坏的部件并紧固连接处。定期检查和维护水箱及其附件可以预防漏水问题的发生。
+2026-05-01 21:14:47,972 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:14:47,973 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 自动洗拖布机型的清洁仓污水满了怎么办？
+2026-05-01 21:17:06,856 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:17:06,858 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 主要是粘毛发
+2026-05-01 21:17:48,654 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:17:48,654 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 优先选热风烘干款，避免拖布发霉异味，清洗转速≥150转/分钟清洁更彻底。
+2026-05-01 21:17:54,203 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-05-01 21:17:54,203 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫拖一体机器人 选购 热风烘干 清洗转速'}
+2026-05-01 21:17:56,970 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-05-01 21:17:58,589 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-05-01 21:17:58,590 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 在选购扫拖一体机器人时，可以关注其热风烘干功能和清洗转速。热风烘干功能可以有效减少地面水渍，提升干燥效率；而清洗转速则直接影响清洁效果，较高的转速能够更有效地去除污垢。选择时应综合考虑这两个性能指标。
+2026-05-01 21:18:29,898 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 21:18:29,899 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 科沃斯、石头）品控和售后怎么样
+2026-05-01 21:18:34,594 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-05-01 21:18:34,594 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '科沃斯 石头 品控 售后'}
+2026-05-01 21:18:36,956 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-05-01 21:18:38,367 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-05-01 21:18:38,367 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 科沃斯和石头的品质控制和售后服务各有特点。科沃斯注重用户反馈，及时对产品进行改进，售后服务网络广泛。石头则强调技术创新和高标准的质量管理体系，售后服务相对完善，但在某些地区可能不够普及。
+2026-05-01 22:42:11,857 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 22:42:11,858 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 王洪文
+2026-05-01 22:44:40,987 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 22:44:40,988 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 哈哈哈‘
+2026-05-01 22:48:44,105 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 22:48:44,107 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你是谁
+2026-05-01 22:49:31,868 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 22:49:31,869 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 今天周几，是几月几日
+2026-05-01 22:49:50,117 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-01 22:49:50,154 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 那一年
